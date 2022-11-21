@@ -1,0 +1,12 @@
+.footer__links {
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+}
+
+@media screen and (max-width: 320px) {
+    .footer__link {
+        display: block;
+        justify-content: left;
+    }
+}
