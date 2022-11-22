@@ -7,4 +7,4 @@
 
 Использованы технологии: HTML, CSS, Figma, БЭМ.
 
-[GitHub-Pages](https://github.com/ADKartuzov/russian-travel.git)
+[GitHub-Pages](https://adkartuzov.github.io/russian-travel/)
