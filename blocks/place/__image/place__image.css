@@ -1,5 +1,13 @@
 .place__image {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    grid-area: image;
+    width: 100%;
+    object-fit: cover;
+  }
+  
+@media screen and (max-width: 425px) {
+  .place__image {
+    width: 100%;
+  }
 }
