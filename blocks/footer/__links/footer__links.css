@@ -12,5 +12,5 @@
     .footer__links {
         grid-template-columns: repeat(1, min-content);
         gap: 32px;
-    }
+    }           
 }

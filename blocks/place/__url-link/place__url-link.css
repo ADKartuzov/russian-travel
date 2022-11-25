@@ -4,11 +4,10 @@
     font-weight: 400;
     font-size: 18px;
     line-height: 22px;
-    color: #fff;
+    color: #FFFFFF;
     text-underline-offset: 4px;
     opacity: 1;
     transition: opacity 0.5s;
-    width: fit-content;
 }
 
 .place__url-link:hover {

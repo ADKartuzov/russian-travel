@@ -12,7 +12,7 @@
     .footer {
         max-width: calc(100% - 24px*2);
         padding: 0 24px 24px;
-    }
+        }        
 }
 
 @media screen and (max-width: 720px) {
@@ -20,7 +20,7 @@
         flex-wrap: wrap;
         row-gap: 24px;
         justify-content: center;
-    }
+        }        
 }
 
 @media screen and (max-width: 500px) {
@@ -30,5 +30,5 @@
         justify-content: start;
         grid-template-rows: repeat(2, min-content);
         row-gap: 48px;
-    }
+    }            
 }
