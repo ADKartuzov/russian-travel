@@ -7,8 +7,8 @@
     row-gap: 48px;
     column-gap: 40px;
     grid-template-areas:
-    "title url"
-    "image paragraph";   
+        "title url"
+        "image paragraph";
 }
 
 .place:last-child {
@@ -18,7 +18,7 @@
 @media screen and (max-width: 1024px) {
     .place {
         grid-template-columns: 440px 1fr;
-        column-gap: 32px; 
+        column-gap: 32px;
     }
 }
 
@@ -26,7 +26,7 @@
     .place {
         padding-bottom: 73px;
         grid-template-columns: 340px 1fr;
-        column-gap: 28px; 
+        column-gap: 28px;
     }
 }
 
@@ -37,11 +37,11 @@
         row-gap: 32px;
         column-gap: 0;
         grid-template-areas:
-        "title" 
-        "url"
-        "image"
-        "paragraph";
+            "title"
+            "url"
+            "image"
+            "paragraph";
         display: flex;
-        flex-direction: column; 
+        flex-direction: column;
     }
 }

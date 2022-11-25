@@ -8,21 +8,21 @@
 }
 
 @media screen and (max-width: 1024px) {
-    .lead  {
+    .lead {
         padding: 48px 48px 92px;
-        width: calc(100% - 48px*2); 
+        width: calc(100% - 48px*2);
     }
 }
 
 @media screen and (max-width: 768px) {
     .lead {
         padding: 48px 0 88px;
-        width: 100vw;  
+        width: 100vw;
     }
 }
 
 @media screen and (max-width: 700px) {
-    .lead  {
-        padding: 48px 0 64px;   
+    .lead {
+        padding: 48px 0 64px;
     }
 }

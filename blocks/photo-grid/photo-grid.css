@@ -33,7 +33,7 @@
 }
 
 @media screen and (max-width: 320px) {
-    .photo-grid  {
-        max-width: 288px;  
+    .photo-grid {
+        max-width: 288px;
     }
 }
