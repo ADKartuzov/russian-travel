@@ -2,7 +2,6 @@
     margin: 0;
     padding: 28px 48px 0;
     width: calc(100% - 48px*2);
-    max-height: 52px;
     display: flex;
     justify-content: space-between;
     align-items: end;
